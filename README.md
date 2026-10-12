@@ -23,5 +23,5 @@ I like applying an engineering mindset to software.
 
 ## Find me
 
-- Website: https://site-gamma-three-51.vercel.app/
+- Website: https://www.bircans.com
 - LinkedIn: https://www.linkedin.com/in/gbircan/
