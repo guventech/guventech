@@ -18,10 +18,10 @@ improvement, and cross-cultural programme management.
 
 I like applying an engineering mindset to software.
 
-- **[WVC-CAD](https://github.com/guventech/WVC-CAD)**: Weekend Vibe-Coded
+- **[WVC-CAD](https://github.com/guventech/WVC-CAD)**: Weekly Vibe-Coded
   parametric 2D mechanical sketcher (TypeScript)
 
 ## Find me
 
-- Website: https://www.bircans.com
+- Website: https://www.bircans.com/guven
 - LinkedIn: https://www.linkedin.com/in/gbircan/
