@@ -10,7 +10,7 @@ I am registered as self-employed in Belgium and currently work as an AI Training
 
 ## Professional background
 
-- Manufacturing engineering, industrialisation and vehicle programmes (vehicle launches in the UK, Türkiye, Czechia, France and Japan. Worked with teams in the UK, Türkiye, Czechia, France and Japan)
+- Led production engineering for new vehicle launches at five plants, working with teams in the UK, Türkiye, Czechia, France and Japan
 - Lean/TPS, continuous improvement and cross-functional problem-solving
 - Cost engineering, budget coordination and operational improvement
 
