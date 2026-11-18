@@ -14,13 +14,24 @@ I am registered as self-employed in Belgium and currently work as an AI Training
 - Lean/TPS, continuous improvement and cross-functional problem-solving
 - Cost engineering, budget coordination and operational improvement
 
-## Software learning projects
+## Tools I built
 
-These are **personal experiments**, not commercial software products.
+Personal tools for comparing cost ideas and exploring manufacturing assumptions:
 
-- **[WVC-CAD](https://github.com/guventech/WVC-CAD)**: experimental parametric 2D mechanical sketcher. Frozen v0.1 learning project, not production CAD software.
-- **[Who Am I?](https://github.com/guventech/Who_am_I)**: prototype ten-question personality exploration. Scores are uncalibrated and not clinically or psychometrically validated.
-- **[Phone Sensor Studio](https://github.com/guventech/phone-sensor-studio)**: work-in-progress simulated sensor-data backend and dashboard. Android collection is not implemented yet.
+- **[A3 Cost Reduction](https://a3.bircans.com)**: a browser-local workspace to compare improvement ideas, plan actions and record results. Entries and photos stay on the user's device.
+- **[ShouldCost](https://cost.bircans.com)**: a transparent manufacturing part-cost calculator with editable assumptions and worked examples. Estimates support exploration and negotiation preparation, not certified quotations.
+- **[Door mirror cost study](https://www.bircans.com/guven/mirror)**: an interactive generic mirror teardown, specification choices and qualitative cost ideas. Geometry and inputs are illustrative, not a production engineering release.
+
+## Other apps built with AI
+
+- **[Speed Reader](https://speed-reader-delta-nine.vercel.app/)**: a phone-first reading app with saved progress and local book storage.
+- **[Who Am I?](https://who-am-i-nine-azure.vercel.app/)**: a ten-question self-reflection prototype. Scores are uncalibrated and not clinically or psychometrically validated.
+- **[AI Project Starter](https://github.com/guventech/ai-project-starter)**: my Cursor setup and workflows for starting software projects.
+
+## Engineering learning experiments
+
+- **[WVC-CAD](https://github.com/guventech/WVC-CAD)**: experimental parametric 2D mechanical sketcher; an alpha learning project, not production CAD software.
+- **[Phone Sensor Studio](https://github.com/guventech/phone-sensor-studio)**: local experiment workbench with simulated data and offline iPhone import. An own Android collector is selected as the next direction but is not built.
 
 ## Connect
 
